@@ -216,4 +216,4 @@ if __name__ == "__main__":
 
 
 def main_print():
-    print("Bot started")
+    print('Bot started')
